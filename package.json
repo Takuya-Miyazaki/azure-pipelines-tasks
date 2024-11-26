@@ -35,7 +35,7 @@
     "azure-devops-node-api": "^12.2.0",
     "fast-xml-parser": "^4.3.6",
     "js-yaml": "^3.13.1",
-    "minimatch": "3.0.2",
+    "minimatch": "3.0.5",
     "minimist": "^1.2.8",
     "mocha": "^6.2.3",
     "node-fetch": "2.6.11",
